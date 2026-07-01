@@ -1,0 +1,25 @@
+/* *{
+    background-color: aquamarine;
+}
+
+.heading {
+    background-color: pink;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: cornflowerblue;
+} */
+
+/* DOM part 2 que 2 Apna collge about classList  */
+.content {
+    color: red;
+}
+
+.newClass {
+    background-color: yellow;
+}
