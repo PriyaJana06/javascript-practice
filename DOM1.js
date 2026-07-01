@@ -1,4 +1,4 @@
-//////////   APNA COLLEGE     //////////////
+// Ac:
 
 
 // console.dir(document.body)
